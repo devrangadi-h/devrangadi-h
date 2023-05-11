@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on creating a Mobile App for iOS to visualize raw sensor data (IMU, Camera, LiDAR)<br>💁‍♂️ I am looking to collaborate on Computer Vision and ML related projects.<br>🌱 I am currently learning Swift, 3D Computer Graphics, and Advanced Computer Vision<br>💭Ask me about all things tech and robotics<br>
+🔭 I am currently working on creating a Mobile App for iOS to visualize raw sensor data (IMU, Camera, LiDAR)<br>💁‍♂️ I am looking to collaborate on Computer Vision and ML related projects<br>🌱 I am currently learning Swift, 3D Computer Graphics, and Advanced Computer Vision<br>💭Ask me about all things tech and robotics<br>
 
 
 ## 🌐 Socials:
