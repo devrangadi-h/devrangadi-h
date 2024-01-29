@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I am currently working on creating a Mobile App for iOS to visualize raw sensor data (IMU, Camera, LiDAR)<br>💁‍♂️ I am looking to collaborate on Computer Vision, Robotics and ML related projects<br>🌱 I am currently learning Swift, 3D Computer Graphics, and Advanced Computer Vision<br>💭Ask me about all things tech and robotics<br>
+🔭 <br>💁‍♂️ Hi, I am Hardik Devrangadi, a Roboticist from Boston
+I am a Graduate Student pursuing an MS in Robotics at Northeastern University. Currently, I conduct research at the Dynamic Systems and Control Laboratory, under the guidance of Prof. Rifat Sipahi. In this role, I lead a project focused on constructing an Autonomous UAS for high-altitude atmosphere data collection.<br>
 
 
 ## 🌐 Socials:
